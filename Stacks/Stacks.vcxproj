@@ -115,6 +115,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Stacks.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main_1.cpp" />
+    <ClCompile Include="main_2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
